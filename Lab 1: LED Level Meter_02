@@ -1,5 +1,4 @@
 ```arduino
-
 const int analogInPin = A0;  // Analog input pin that the potentiometer is attached to
 const int analogOutPin = 9; // Analog output pin that the LED is attached to
 
@@ -55,6 +54,6 @@ void loop() {
   // for the analog-to-digital converter to settle
   // after the last reading:
   delay(2);                     
-} 
+}
 ```
-! PIC (https://github.com/Ying7930/week8/blob/master/IMG_1671.JPG)
+![PIC](img/IMG_1671.JPG)
