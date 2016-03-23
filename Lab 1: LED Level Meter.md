@@ -57,3 +57,8 @@ void loop() {
 }
 ```
 ![PIC](https://raw.githubusercontent.com/Ying7930/week8/master/IMG_1671.JPG)
+
+LDR
+- When cover the LDR the LED Pin will glow.
+Switch
+- press will make it on and off.
