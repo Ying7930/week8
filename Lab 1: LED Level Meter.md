@@ -59,6 +59,13 @@ void loop() {
 ![PIC](https://raw.githubusercontent.com/Ying7930/week8/master/IMG_1671.JPG)
 
 LDR
-- When cover the LDR the LED Pin will glow.
+- When cover the LDR Pin 9 will grow.  When release, Pin 10 to 12 will grow depends on the lightness that given.
+- The highest output is 224, lowest is 1.  For the sensor, highest is 902, lowest is 8.
+digital multimeter
+- The voltage of the LDR is around 4.97
+- For the analog sensor pin the voltage is around 4.94
 Switch
-- press will make it on and off.
+- When press, pin 12 will grow.  When release the buttom, pin 9 will grow.
+- The heighest output is 255, lowest is 0.  For the sensor, highest is 1023, lowest is 2.
+analogRead function to digitalRead
+- The sensor only show 0 and 1.
